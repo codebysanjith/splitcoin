@@ -1,0 +1,30 @@
+export const Colors = {
+  primary: '#0D9488',
+  primaryLight: '#E0F2F1',
+  background: '#F8FAFC',
+  white: '#FFFFFF',
+  dark: '#1E293B',
+  medium: '#64748B',
+  light: '#94A3B8',
+  border: '#E2E8F0',
+  red: '#DC2626',
+  redLight: '#FEE2E2',
+  green: '#16A34A',
+  greenLight: '#DCFCE7',
+  amber: '#F59E0B',
+  amberLight: '#FEF3C7',
+  purple: '#8B5CF6',
+  purpleLight: '#F3E8FF',
+  blue: '#3B82F6',
+  blueLight: '#DBEAFE',
+  muted: '#F1F5F9',
+  shadow: 'rgba(0,0,0,0.06)',
+};
+
+export const Fonts = {
+  regular: '400',
+  medium: '500',
+  semibold: '600',
+  bold: '700',
+  extrabold: '800',
+};
